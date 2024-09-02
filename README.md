@@ -1,5 +1,5 @@
 ## Hello!
-This soon (may not be this soon, I'm on vacation at the moment :D ) will become my photography portfolio.
+This soon (may not be this soon, I'm first year in university, so have a lot of studying to do :D ) will become my photography portfolio.
 
 Special thanks to [Ram](https://github.com/rampatra) for the website and inspiration to finally share my photography with the world.
 
